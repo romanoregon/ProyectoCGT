@@ -1,1 +1,2 @@
 # ProyectoCGT
+Este programa contendrá la construcción del interior y exterior de un espacio habitacional ambientado en las festividades navideñas, mediante la utilización de las herramientas de visual studio y 3ds Max, este programa también contendrá 5 diferentes animaciones complejas de diferentes objetos incluidos en el escenario, estas animaciones  fueron realizadas utilizando los métodos vistos en clase de laboratorio y teoría.
