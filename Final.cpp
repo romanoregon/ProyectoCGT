@@ -106,12 +106,12 @@ float	giroHelice= 0.0f,
 		movAvion4 = 0.0f,
 		movAvion5 = 0.0f;
 
-//variables bulianas para las animaciones
+//variables boolianas para las animaciones
 bool	animacionCarro = false,
 		animacionCasca = false,
 		animacionAvion = false,
 
-		//animacion casca
+		//animacion cascanueces
 		conteoMov1 = false,
 		conteoMov2 = true,
 		conteoMov3 = true,
